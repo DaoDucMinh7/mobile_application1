@@ -49,12 +49,12 @@ btn1.addEventListener(
   "click",
   function () {
     let resultTextImage = [
-      "./01_omikuji01-12/img/omikuji_daikichi.png",
-      "./01_omikuji01-12/img/omikuji_kichi.png",
-      "./01_omikuji01-12/img/omikuji_chuukichi.png",
-      "./01_omikuji01-12/img/omikuji_syoukichi.png",
-      "./01_omikuji01-12/img/omikuji_suekichi.png",
-      "./01_omikuji01-12/img/omikuji_kyou.png",
+      "../img/omikuji_daikichi.png",
+      "../img/omikuji_kichi.png",
+      "../img/omikuji_chuukichi.png",
+      "../img/omikuji_syoukichi.png",
+      "../img/omikuji_suekichi.png",
+      "../img/omikuji_kyou.png",
     ];
 
     let resultMaxSpeed = [20, 15, 10, 5, 5, 5];
